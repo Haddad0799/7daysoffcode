@@ -1,4 +1,4 @@
-// SEVEN DAYS OFF CODE - ALURA - CODE3 - INTERAGINDO COM O USUÁRIO DE ACORDO COM SUAS ESCOLHAS.
+// 7 DAYS OFF CODE - ALURA - CODE3 - INTERAGINDO COM O USUÁRIO DE ACORDO COM SUAS ESCOLHAS.
 
 var escolhaDoUsuario = prompt("Você deseja se tornar um back-end ou um front-end? ")
 let linguagem = "";
