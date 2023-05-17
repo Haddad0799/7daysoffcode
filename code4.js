@@ -1,4 +1,4 @@
-// SEVEN DAYS OFF CODE - ALURA - CODE-4 - JOGO DA ADIVINHAÇÃO COM A MÁQUINA.
+// 7 DAYS OFF CODE - ALURA - CODE-4 - JOGO DA ADIVINHAÇÃO COM A MÁQUINA.
 
 const numeroAleatorio = Math.floor(Math.random() * (10 - 0 + 1) + 0);
 
